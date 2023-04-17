@@ -1,2 +1,2 @@
 # Reconocimiento_Facial
-Reconocimiento facial basado en Azure con lenguaje Python.
+Reconocimiento facial basado en Microsoft Azure con lenguaje Python.
